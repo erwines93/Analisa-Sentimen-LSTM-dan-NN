@@ -1,0 +1,2 @@
+Untuk resource model LSTM (model.h5) bisa dilihat di branch Master ya, bukan di main
+Terima kasih
